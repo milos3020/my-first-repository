@@ -1,4 +1,4 @@
-# my-first-repository
+# my-first-repo
 Welcome to my GitHub project repository!
 
 ## About
